@@ -1,4 +1,4 @@
-# Customer-Lifetime-Value-In-The-Company-Of-Car-Insurance
+# Customer Lifetime Value In The Company Of Car Insurance
 
 Divisi Development dari sebuah perusahaan asuransi mobil ingin melakukan prediksi skor customer lifetime value (CLV) bagi para pelanggannya. Customer Lifetime Value atau disingkat dengan CLV merupakan sebuah prediksi atas nilai total pendapatan yang bisa perusahaan dapatkan dari satu pelanggan. CLV adalah nilai yang penting untuk diketahui karena membantu perusahaan membuat keputusan tentang berapa banyak uang yang akan diinvestasikan untuk mendapat pelanggan baru dan mempertahankan pelanggan yang sudah ada.
 
